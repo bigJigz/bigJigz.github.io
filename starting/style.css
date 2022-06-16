@@ -21,7 +21,6 @@ th {
 
 /* --- Navigation Bar --- */
 .navbox {
-  border: 3px solid black;
   list-style-type: none;
   display: flex;
   flex-direction: row;
